@@ -1,0 +1,26 @@
+{
+  "name": "Madge Cruz",
+  "age": 47,
+  "address": {
+    "street": "Pujhe Place",
+    "city": "Duvorgak",
+    "state": "MI",
+    "zip": "83032"
+  },
+  "contact": {
+    "phone": "(683) 572-5535",
+    "servicePhone": "800648365"
+  },
+  "birthday": "1977-05-07T13:45:31.341Z",
+  "ip": "163.115.88.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Epicogku enenug dag zaipida wowez su guricga leit de bokivbil wido ni pamep bekazosu. Deijerec bu hem sovupus kivge hakta owe uru zijocadu ganemivar efo ba huopu ifepi waim huduvin col. Wewduko owmedrin cobijtiv po vuppocer louwufif sikzuli ha kim wucuci tunac pon zafenuvo jo widlagho gibi. Mebme bucedas nu alu solda lam etuumata giconiice tu lefduic uzeetices wucha owazid gever herah nib tuc. Hadez cago luhzeb etzoz nocamu ceel cosu ze fo ocjog agapuf ajdican sinsun cu pimrewih hojjigizo unwok ew.",
+    "bio": "Eb sodonle iba gedil foru emijuz cotuvi pan etlida madi lijhipkav mu obozezjap. Hieza je ti gelar nizenfu tu dazo deg teludiw hupdo dafnit najhucuda keenu ru. Azohutij ke cabo nipiz colpok ah abi cupagoj are owifo ivuwop dov goad. Bupzejpo ebu jagfagidu oli ut raz fufohzu ubucitof hojtot otgorna inzo vabzibuf uvga nuhpobbuj usju."
+  },
+  "apiKey": "93aa8134176a207e83c65e5d0de383856e0952e7bcc2d23feb8fb97f5a0b87c9",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
