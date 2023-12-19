@@ -1,0 +1,26 @@
+{
+  "name": "Herbert Bates",
+  "age": 21,
+  "address": {
+    "street": "Ivebiz Plaza",
+    "city": "Egoirob",
+    "state": "NY",
+    "zip": "19651"
+  },
+  "contact": {
+    "phone": "(533) 358-1388",
+    "servicePhone": "800613546"
+  },
+  "birthday": "1968-10-01T09:05:56.567Z",
+  "ip": "219.251.38.77",
+  "foo": "bar",
+  "profile": {
+    "about": "Maodo kuj tebiz kizharred ir ka polze tejo no malevvo didlihbug wa komsu fuuheefi jajo. Hawomi sejiwivi fihnejlu ci vap odohopjoc ri dat pubhaw epho cir lefco. Pedogsa roawnar oj kebufsec came fezsawac jew ba oza wamo huip majo hiljedel kir coz sak sa ugazesnoc. Kagame se ha aco satwe piposba rah uvi og fakare asaok co kujul uta hawjaj valhoil. Su halgag bagima keklusu be kaitu fo nu fiw ta abdi ezuvoduv faefid owahooze kak.",
+    "bio": "Leic hiliv zu jokit afuje jur pikam lup gimsupa novban lesfon soegrar fikawrew zifo munwuzej ce. Ipnunovo depe log ur bacolacob ezehaen ret jidjuj zaj viztuuzo bug upi sutatnot gu viz keramucoc doh. Izsoum mi afele seccubor pik lof bocugat co baufefuj oksor nazfazi emut pisiwe."
+  },
+  "apiKey": "32a6729f6ff9cb248dd937952c01a5d83f7bbab5dfe0776f7b165649459c1ae4",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
