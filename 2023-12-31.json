@@ -1,0 +1,26 @@
+{
+  "name": "Larry Alvarez",
+  "age": 34,
+  "address": {
+    "street": "Siwdir Manor",
+    "city": "Kiofho",
+    "state": "NC",
+    "zip": "31424"
+  },
+  "contact": {
+    "phone": "(934) 530-9389",
+    "servicePhone": "800653718"
+  },
+  "birthday": "1975-02-06T19:58:52.887Z",
+  "ip": "8.156.171.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Banzu sohjadu jug eneirbe new zi sez nuzra da ow loco obhadad nisurgok samigdi izu mene ibovikda za. Owafuf fotcoki ebneh dewaje melo bonubcod re ej fizwevfo zecmav hu nukit sekjah. Cu vidi ut neup gonot havvir fobaj aso ofvoh tug vor fat. Mase ma re omoze gulejal roheke zef hi numij ipe dik gum.",
+    "bio": "Iskali jumo hacaefo zeisu eja soj puipi wi tus majmozam bofol ujkiv jur. Demte emhegopa seme amonaelo nut cokawej ulra davef votgo vukfej gukfacvo bewwufmun gimi kekad bocna awanem wiojik. Vikzawko veb puj punejbic hifekzo cicla me hededma cowihir nanka let uwzan lerhaz ale gutvu. Es tos kig cohafot wudjiw gevuz bultug mimi lo ikekob hiohuaz fon reteew vukwe larukre salcizpa. Pawmode soc pebe ju vi zokroc nivlewve delfedluh wagmatdi erwi iv sis zutokmo cavokhoj. Neh fo zek wattunva vedruk gotduvut mu ceb li sa em suj tac foronemi ziru."
+  },
+  "apiKey": "4b7770608ca74ecc3dc8e52250212cc096baafbab04e6eab63020035d5c58678",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
