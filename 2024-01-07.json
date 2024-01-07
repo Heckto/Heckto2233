@@ -1,0 +1,26 @@
+{
+  "name": "Sallie McBride",
+  "age": 22,
+  "address": {
+    "street": "Marbo Court",
+    "city": "Facoato",
+    "state": "NY",
+    "zip": "22894"
+  },
+  "contact": {
+    "phone": "(822) 598-6540",
+    "servicePhone": "800665749"
+  },
+  "birthday": "1999-02-09T00:52:27.283Z",
+  "ip": "117.176.115.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Jahvime sedobes jiso riz li lawudo dalta akogom wivbu alfucof na owi bero fodzidu peiwog vozic vucwim. Bezfevot gihdiwce fomsavki horte siti homwokot rokim pos ginfo zaaz luhevabew tazhum jomtek it bapocudu humtofhi zozof uvezafu. Hofedije waz mov nigpu vev suhezego tu ipic amduv se mosezav sosampuw vedib migep go ta. Tida onza saga diofodu dopoti son icibedda rin vazu eg takis wug mel. Ig azwub upcacvuw egozer pa jowogeko fahatovi pag uwu mijesa zamud opi pam matadikip fi pova.",
+    "bio": "Pot fujesow li adiag leacaejo emioze aziid dinikiagi umeto bag copepi gemo cas. Bakro lusfer ackoz guhekid puz ti cuvebda zedi ta na so teb tu azura vagtes uca hoh vuhu. Gog ik nef zud jagzef mizmeli vepkove keisruf guprum unadi baj woretet bozzi. Pifoolu ke fene gatba fuddufuf ziwla feg awobavu val holetsir buedaow hufu perjasde meevimot wumra gud hu tatorit."
+  },
+  "apiKey": "66bd9cc0c61429fd208c5f19f5d95aa92232098873fa2abbdb590552318487e7",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
