@@ -1,0 +1,26 @@
+{
+  "name": "Danny Salazar",
+  "age": 53,
+  "address": {
+    "street": "Zahkeb Road",
+    "city": "Tudukiku",
+    "state": "OH",
+    "zip": "42246"
+  },
+  "contact": {
+    "phone": "(316) 664-6010",
+    "servicePhone": "800179657"
+  },
+  "birthday": "1984-06-16T13:00:17.011Z",
+  "ip": "9.216.182.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Celcemi sebuszi kajben jiime sulwe pigrul fanmu pe maehuno junwiwtit hibjo alecerpew seipaco rusavi etvuvru. Coz bugfej bafuas ifu ufuiplov mam cijopde bebnew nofofa ijanoksa vamwogoh paishe zepah nek mosjur tov fenesmu rarvot. Tutmopvo cub atoku mipab is nolneriw iso dezhid bu maf henuh diwitulad rug.",
+    "bio": "Gomefe leho zep zoleb gu durjezab wita wewmovi re kumhojcet lecovec mu vo vite. Fonmezar is rillenu igma vi zis bi wazge ikbudu na jonimpaz ame respe dedmimwi. Ko haalosu gaha bum si higped gedruwa pe voohaiv nig vebfukva gef kanlik."
+  },
+  "apiKey": "92e79eefce47306156f8aa89c7f974a9b76a8211d0c5c1e39531d4227ce88838",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
