@@ -1,0 +1,26 @@
+{
+  "name": "Amy Medina",
+  "age": 51,
+  "address": {
+    "street": "Epla Park",
+    "city": "Tagtipta",
+    "state": "TX",
+    "zip": "33363"
+  },
+  "contact": {
+    "phone": "(528) 231-3758",
+    "servicePhone": "800954976"
+  },
+  "birthday": "2001-09-21T18:19:33.691Z",
+  "ip": "184.180.182.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Ep amal pepko tel jukeprun oroepu gobkittim luleh bughivuni jismepob fahovic jijuwuc mav kacjaove. Je zinzihi dub zuncen fi rooc pa uji usi ciruliw tojvusane hiho sadi odeoha rapi noitede. Onikir fonkih jem pesdo wehwibdaj buseuk ulmola fatkir ijpuzik meavtis wovjan rovhonbol akcufi sealzo fuskakez wo wu ajwotvo. Ahiahku dacuzga tircot ve tukec pib sonjiwu ijvuasa ilurinne uho arma pi. Wo ci monofa maami pi ba icuhunci zokeh ipa so ele fahebi josod kihamzup. Ezwutvoc sudpumbi gu efmefiku uf akoelu li narjajoz atkak iwmul noogowet oboug ale le ubo atile butke rosu.",
+    "bio": "Pu kunuvewa ba fizeso vajovdiz te infavcod tolti lutug atsaloc ucimugpe jij mimedire pigehoj uveraz ta to werimfu. Pi pesum ahaso voew gizogene pazud al pigooka heuza ulase kurfe rapmo. Vuari izu kuga hi ar zevtuko ucober sefzazah owewoh lof tis do om gildesga."
+  },
+  "apiKey": "746d31ab182658186592c265e588901cb93fd0185980b27d238f3662277bf5b3",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
