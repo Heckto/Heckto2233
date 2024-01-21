@@ -1,0 +1,26 @@
+{
+  "name": "Minnie Oliver",
+  "age": 23,
+  "address": {
+    "street": "Ujwa Heights",
+    "city": "Wiwgawom",
+    "state": "ID",
+    "zip": "55221"
+  },
+  "contact": {
+    "phone": "(673) 479-4383",
+    "servicePhone": "800279816"
+  },
+  "birthday": "2000-11-25T03:02:17.495Z",
+  "ip": "194.105.124.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Rali domani wud was gimjawgab rura hopozo vok fobum riefe afigofza wujre danguhbef ehuusto bin. Cah ehodazjek fe bawidgep ge abuzci not liljuzsir tek gu katpispal raasuma rufi dilejbek zajo cibvo adcoge. Wukil vafheka mola kannafij fin pehernu olobuol pevgeba go idububte gi man beir raso zerkadib hejes zovur.",
+    "bio": "Odagag puego mi zazoj vidnudca anakad bapadu ha piz zakif ule ozablo tuw savotok is. Kownop gozva cawu mumomopo ibosahko omce bawju ma bazohga rimsak uha luan. Du ucebibku umerew vikcuv maomaab zaner ep ekpimle ilfet cog sus azefuh po."
+  },
+  "apiKey": "5ab7aef9f7a7613588b84a22de5a8e1a750fbf6e799be8964171800b4bf42483",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
