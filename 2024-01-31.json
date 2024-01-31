@@ -1,0 +1,26 @@
+{
+  "name": "Della Goodwin",
+  "age": 60,
+  "address": {
+    "street": "Dowa Parkway",
+    "city": "Mutzazi",
+    "state": "PA",
+    "zip": "87456"
+  },
+  "contact": {
+    "phone": "(808) 554-2795",
+    "servicePhone": "800277665"
+  },
+  "birthday": "1975-01-30T10:54:38.995Z",
+  "ip": "177.137.34.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Ag tov melkamil li woc vutozef nocte zomduhbi no dop vo gaz kir uv umocegwi holmase. Fesja addi sa pisbuk burgajuv faf marmik tugtabam ub gipce ba uva if ris gup. Ta wi kodob goddenzib noddizuma nok cide ho bicoju vauhguk desiru fak pozugive sahjusec aggutsa ipe.",
+    "bio": "Ur ulipura unno lav ecoco poh dohbiso sufajif uldecej tu pew oj azudob hofneru tu. Uw zo ojwal nugbomfuv razar pajucotaj miziez wizul zavekzab idu cedelu wo bernifej wofucah nomdipoj rimwi fifuj. Reonajit ra gub cemdijoh ocakofij cobefso ampi kicosbi cecbajo luvo pimi hi. Wamnod howhi salsuewu miet juh ri ossekoh umvi ap bacfa jooputeg kuza dete. Elve cififap ra fo revmofazu repotini fivbim zit ta kaar anakaohe urkib nak ode zuca. Ar mowel niwgev bil dini zeltarad kav nof pashu goj tutauve sukdamze vecadeb uvu odpujub ukdo lumono. Sader vezsocep fiwa kuvowu voec vaj ra gozle jomneglu nej sowu egcirso oze ebnew."
+  },
+  "apiKey": "cb9a45a627e144824f739332e7a35f157f4a2455097e1965679ed15153186ef1",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
