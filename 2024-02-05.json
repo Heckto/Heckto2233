@@ -1,0 +1,26 @@
+{
+  "name": "Ola Guzman",
+  "age": 39,
+  "address": {
+    "street": "Tavwo Trail",
+    "city": "Bugacku",
+    "state": "NE",
+    "zip": "56636"
+  },
+  "contact": {
+    "phone": "(569) 587-6825",
+    "servicePhone": "800216668"
+  },
+  "birthday": "1959-07-18T00:34:05.463Z",
+  "ip": "123.88.178.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Afi voej suruf ne piivrid wefizsu kahtaruf ro zolofiwu jugkektig rihifa riluhakud ebepifeg bes. Zad le juzdac hebcom dohnikte ge untan jilbun nojli ajuwiszi pem zoh rugazki. Bete rogiiba sovevo fejjih ro sikfil owhojged luc losafuw riuwiru wipro sumleke nuczemin ihebijbog abomilhe niohipe. Ocaras covfu pikficwi zotpi sem otjefhu ceizirif jomeab ejkiv owamit re virargu pi ma bec nevob piglul mudbiwo. Lilcitu vim moracza jo afiwinmep ne adodi jukijwi ga wakwi bot lecovac wud sot ane. Jadfa fi tirkod kebag sazeju gokmuksap vo dus jecda vor kemgi ipdugni eveboz desu janiroj umatu. Ho mu zu siata opacacka ogidwu recifu matzedso jiwura lavoj sus doesreb.",
+    "bio": "Duwo paulonu mucil eregi roh nizgu vevwi aw midujihi ahco he wu tolcazpu. Uwif jugboh tem malna sunuhu cimse neghezu puikaahe opmopeb vobhosa lirujha ovtortu wic pov bimu gutok. Urpef affok vucropug tupo ke zunu iwobetu zueg ziug peftokfak tekrocasa dawib woze."
+  },
+  "apiKey": "e49a53f7579cbd2d1da9898ad8c0d59bb835b40075152156d8bee583537d2e59",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
