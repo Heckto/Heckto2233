@@ -1,0 +1,26 @@
+{
+  "name": "Dale Norris",
+  "age": 23,
+  "address": {
+    "street": "Palko View",
+    "city": "Angimto",
+    "state": "NE",
+    "zip": "30271"
+  },
+  "contact": {
+    "phone": "(388) 842-6425",
+    "servicePhone": "800542112"
+  },
+  "birthday": "1982-04-22T05:57:12.872Z",
+  "ip": "197.119.102.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Dohas fug sojnaz te zufliiwi wozkikwog momef hiz baf owo tajfad ih ade otakilic bubhe lamihwi wapola. Fiorzom acaj avesug sotanu isokepna mat otkeis vohca je vip pufsugwo fehafo ifukuz puh nel uhe emaanigi wugofni. Citatlob ezipetud mizagbe dukguuza we evoboab jodfinag va imojet po duw siricje.",
+    "bio": "Peezi asmu kup juonfoz nim ket cegapfar zopabegaj ulagohvi bej bo pumepe ipeud livi ulacug. Oga cej mudvum labuhu bom moh ubi gorefdip uhobin benco gavta nimdu sakmec nek namakamu. Akfit ku vogmiot usiuraep icbimag kegoja bihosco lag ciwsa fi caop ajurot umvo fufhok remhuh kokgi zobisikuv."
+  },
+  "apiKey": "a0d5792bed37922528500873c6c45e0b8b03a1135f85a10d65deb8ec1ff0439b",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
