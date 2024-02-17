@@ -1,0 +1,26 @@
+{
+  "name": "Betty Richards",
+  "age": 35,
+  "address": {
+    "street": "Nengu Parkway",
+    "city": "Wuhunnu",
+    "state": "AK",
+    "zip": "70073"
+  },
+  "contact": {
+    "phone": "(483) 796-7397",
+    "servicePhone": "800442413"
+  },
+  "birthday": "2003-03-26T19:28:10.231Z",
+  "ip": "187.153.193.203",
+  "foo": "bar",
+  "profile": {
+    "about": "Ga rir rezrabeci moiguag ne ku fuske vezeh raddaga viigoma mobo gu birku hehedi laawlir. Tikovuw niha cow zuf tuvfi kamwus vufduoz lo ja uwitza wamcukup de poczueve akawirap gufuk dudpal cofwuzo. Zefov tulgilup mo jebikte dumtatfa pu udirezep vis eftozar gegaki silmo wowtakhal torfacdoc nahvuobu.",
+    "bio": "Jalahiz zatugmol epatuh hijif am fu uc cusibala ize wuubo omofevoj mukhakhi uhdifaf onefudfi gi. Nevwel cafcow rutvap wietu zo egevo cal ohasici cezozup poefi uveigu hos ge na as kauzuzem suvuta. Gahotda wumke tivob ufwap degomid kizcilop vigwad unfo pugeilo faz ha duh ho duda bi hemzis pi."
+  },
+  "apiKey": "469e0340977138e921905f6aad77cf8939f45f96044c7494f8ac6da97371b58a",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
