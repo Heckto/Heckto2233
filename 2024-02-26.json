@@ -1,0 +1,26 @@
+{
+  "name": "Lina Walton",
+  "age": 22,
+  "address": {
+    "street": "Bozom Boulevard",
+    "city": "Kudnuumo",
+    "state": "SC",
+    "zip": "60299"
+  },
+  "contact": {
+    "phone": "(427) 776-4616",
+    "servicePhone": "800913122"
+  },
+  "birthday": "2003-09-14T06:04:40.486Z",
+  "ip": "173.16.142.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Bekmuled vujron fi cugenoba zu toggojo lihe amjebonu zuof jardu he afeoho fazwen idoifidih viufa ubobimo. Jusvub mor linijdo pafidi kewu ifakam kubower iteduwoha litto kik meppisij hulihiv watciham. Inmovu juwo fepiro tugor on edfo ogumhi uwu barheber ewigojon hoktobos ra sa jetu bidil.",
+    "bio": "Omuen eke deze dewme efpe beji hejhuemu mu impiv ose sikzep zu om cipe ubiweug encifbez. Zamlamih beuco lapjok iffuz dijiowe nenoog baowata it ju ipmipon enla fopini taz foacagaz hud vake fuhe. Tozhovo deonuon huharda wiloh fadouba pew vewoga za mem jala megrefpul zafe ruljuket. Daw tun fazgosas cu piudva at ivoijili hiki kaj paricopa san pi ro paw vuzodmiz wovwelu jucko di."
+  },
+  "apiKey": "cc80b3ec689ffd1b0e59a3f38039509cfc3ec8e57df85ac8aa42c51f353a6407",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
