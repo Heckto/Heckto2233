@@ -1,0 +1,26 @@
+{
+  "name": "Iva Swanson",
+  "age": 38,
+  "address": {
+    "street": "Boeb Path",
+    "city": "Kalahifa",
+    "state": "WA",
+    "zip": "15378"
+  },
+  "contact": {
+    "phone": "(588) 465-5041",
+    "servicePhone": "800376678"
+  },
+  "birthday": "1996-05-23T04:20:36.146Z",
+  "ip": "151.148.62.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Ga riawo vu duuf felmuke bo gadlirfuv ro pagtu wo foomu ad. Riz vergu fuorkoc vuwaig jo vucav lo zofu mefgu pociw gizilpi medtohot fikpupwaw ubki biv ri juw. Vagma awo hulcufo guzzamof voipi ef sofubnol isutuciki voskej vo pif cefuej. Udoco mik hibva bu upaetufi ibobe nuv cosrat fik umooccom cacsowdic laduldu. Do egpedemi ren ferkowhe mic leromem puwkeuse pewan fe ecvugoz vefni vahiz evhosuj putoske fadkinu bume ro.",
+    "bio": "Haviru zeltosebe okijub ofeisa zev wozwe suhvis late tir lo ah bupbojup. Ecni cadbum itu vupi olimipna uro adwi bocburpo tuwkag ida koljekrac taz so. Isauno bini geftot fe ih zubkizmuh ujbiru kednuh adi zorer gotopje ralo."
+  },
+  "apiKey": "d64115db1806aa64e0451942b4e93c4154545a131f61977871cb15ed5abfc646",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
