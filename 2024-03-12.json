@@ -1,0 +1,26 @@
+{
+  "name": "Sophie Garcia",
+  "age": 21,
+  "address": {
+    "street": "Ajabo Loop",
+    "city": "Wodahva",
+    "state": "LA",
+    "zip": "23996"
+  },
+  "contact": {
+    "phone": "(335) 327-9891",
+    "servicePhone": "800117111"
+  },
+  "birthday": "2006-09-26T19:02:47.757Z",
+  "ip": "57.50.182.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Vopa ub cava jowfu vakin emoagba bolev lusdo ho vectiplo oltiwnaf pemejfip botir ezmine su huhir bo. Zoti gujas ewu ukivo mobeva iwe kaserad ve lunofron halrarat wu webti mu vadikug civnu lukepfo. Bu mun nergipu go feimafa na osu vuasrem gopiz wihcuf epped ruz zorfes pukif rekki nurlo evaju. Gerun nuwijwob mic londo uta tocbauko idros mizja mujej ul bikdeci raes laz sas duhloji nool ophur.",
+    "bio": "Hes ucaiji du rasgog hafa terugup okomimfar ful ra hutorako servoz uvociim ic punhaspon ap. Guvihtu fehegfoh ehi hecuge wom cop fag efuz zigve patbic gubbijne ofzeg ge efeuvi. Bojvuwgub fafhi zimtikehe zouv foefnos onepisbu hegamu ranjig iweca rocsuc uba hu wimisruj."
+  },
+  "apiKey": "747c781dd1d7528eea665da06c4779e558d8e0b17bd8c84befc60da3ee84f150",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
