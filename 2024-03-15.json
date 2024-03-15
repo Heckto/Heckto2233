@@ -1,0 +1,26 @@
+{
+  "name": "Shawn Allen",
+  "age": 50,
+  "address": {
+    "street": "Pigo Grove",
+    "city": "Viihsez",
+    "state": "FL",
+    "zip": "64909"
+  },
+  "contact": {
+    "phone": "(840) 220-1799",
+    "servicePhone": "800185872"
+  },
+  "birthday": "1991-05-17T11:36:53.872Z",
+  "ip": "35.41.115.84",
+  "foo": "bar",
+  "profile": {
+    "about": "Wecvifjaf culbi rugmej to rotih gof to umu gadbekwuz hiw cuwnone ruz bufacsu posejrig do. Pon bip vat badvam kongocer pos to bucum laz gijot ijukir wig fok. Zeno sigrothos et cu lecko ki ces ma kokig dumcig danone fu kehiz vahliw voravu herokol rohabo tazolwig. Pafla gijhig laehobop mulus curhap tuhdihaj mepate oc noz mucvome garov bec duevizo su pam et ja uc. Duv zunow hepi baz pefuzlit zasek aho re ginudtu cero kef culde fi belaluv. Te bomivlon foc ezehsa ore or rupomsuk sodjafad zes ci bujcogu vagipo ogapomej baksipep lum valecja cut.",
+    "bio": "Ru jac heuvoli bojuje usifo vut rufuf cufo sa jom facadi reva zizbeomi hipos ituis. Bivkipmeh hagser ja gi wopakuj gavha uv va jojufnoj likfe izo vakkoswob oci sajco zon boecaku olu. Pam sa biobge bi ne jom apsog luvogoha haha odoeka dimuvlo tuhapow kinpiperu ogwi ubuzoj ulma kudfe."
+  },
+  "apiKey": "bb34c7b2ae343ba4069ba76980a52153ca2ee30eeaf356aa11c48e6c904bbbf9",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
