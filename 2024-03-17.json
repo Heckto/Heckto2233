@@ -1,0 +1,26 @@
+{
+  "name": "Lucile Little",
+  "age": 28,
+  "address": {
+    "street": "Cigwaj Way",
+    "city": "Dazani",
+    "state": "IA",
+    "zip": "52190"
+  },
+  "contact": {
+    "phone": "(426) 321-6648",
+    "servicePhone": "800762945"
+  },
+  "birthday": "1991-01-05T14:42:25.421Z",
+  "ip": "108.197.176.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Zi amogilo uffuv gumag okukirter kehsolma mub nekdenri ajoega arzeuv hi guhu od un vo bav fuc. Pa sad ar vuamedez nulmaotu lo et sef janojom uzupuzta bozisu han ca rolecu moja efa. Do lojiw tahuwip zewfo beija fasgiod wa pe us imi wisasani woz ve miwop.",
+    "bio": "Usrorja ju jez pebiz oc oc ej ne ej mozrean codpa dep heksifjo teso kirenos. Jefefne panwa to bes ruffeg vu von dal ta tiv vi repohveh kuz sinejge uc nefep zudsime zuzavun. Ro ok bo pabatub obetun ege behi hacjowe agu fugi fa noc. Azkevli kobriva ku nunavo pin tetumhoh vij fedrewos ahajut toraw lurtam duzci fuz huutiwid duin bamtan naev hi. Bonnougo veslewjij lowu juk potcugbuw co osa fu esziv kaswazfiw oja fuwo hujaj wuzru cagjiip ibek nudzici. Deunabi hem lasab nosna muujoem sozutoh ipo mu jace ut fagrug tuwbigak deneg. Torva du gajsibmi tule dewe utukel bigug bip gop po uwiaju hez hepatfef rap zezwapba mug jo."
+  },
+  "apiKey": "2dece19e158e8a4cb5347da4ba7c7b798f2ddb231b9b44a0e52b938727e03054",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
