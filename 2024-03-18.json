@@ -1,0 +1,26 @@
+{
+  "name": "Keith Welch",
+  "age": 20,
+  "address": {
+    "street": "Gares Boulevard",
+    "city": "Zisagodor",
+    "state": "VA",
+    "zip": "86064"
+  },
+  "contact": {
+    "phone": "(603) 812-7013",
+    "servicePhone": "800644294"
+  },
+  "birthday": "2002-06-30T00:56:14.457Z",
+  "ip": "56.165.199.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Juwaer sidi ifjo capucbik edi ho fa rumkap ekic uwlik busilos wi pap ogoma zamkeme ahofigef kat. Nobo mac agovo ke tulutfo gegcahtec banu lenpi hecvak aracop ok na solemu kuhdouta beb ejeun. Me popnew kulde ifoimeva zesobeh hej ja mojduwawe ej dub nujwa avsog ewlozode fepehe.",
+    "bio": "Wico biti fi jow col pu idehizep ajfiru na nuk ofuutiha gu hitutu. Ocoivcun sacvo luz ivmo vem idzab biad zoha zosdaj ga as zowid ato tuno gic piinbu rup dolut. Zek ceko wero ha pezoza ruzbotev emozuk eknot goraad ga ifa mukar hah cuumueje."
+  },
+  "apiKey": "9b5350b16a4fc38767aa27ff8fcdb4cb9648ca526af9308fa4b8cfc3d7291b83",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
